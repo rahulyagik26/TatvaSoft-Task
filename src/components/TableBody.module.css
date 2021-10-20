@@ -1,0 +1,10 @@
+.tableBody img {
+  border-radius: 50%;
+  width: 40%;
+  display: block;
+  margin: auto;
+}
+
+.tableBody tr td:first-child {
+  width: 25%;
+}
